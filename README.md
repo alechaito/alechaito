@@ -1,5 +1,7 @@
 # 💫 About Me:
-I'm a collaborative developer who stays up-to-date with the latest tech trends. I'm passionate about programming and always eager to learn new things. I'm currently enhancing my coding skills through personal projects and strengthening my communication skills.<br><br>
+I'm a collaborative developer who stays up-to-date with the latest tech trends. I'm passionate about programming and always eager to learn new things. I'm currently enhancing my coding skills through personal projects and strengthening my communication skills.<br>
+Email: alechaito@gmail.com
+<br><br>
 
 
 ## 🌐 Socials:

@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a collaborative developer who stays up-to-date with the latest tech trends. I'm passionate about programming and always eager to learn new things. I'm currently enhancing my coding skills through personal projects and strengthening my communication skills. I write clean and efficient code.<br><br>
+I'm a collaborative developer who stays up-to-date with the latest tech trends. I'm passionate about programming and always eager to learn new things. I'm currently enhancing my coding skills through personal projects and strengthening my communication skills.<br><br>
 
 
 ## 🌐 Socials:
